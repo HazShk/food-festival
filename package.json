@@ -1,0 +1,31 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HazShk/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HazShk/food-festival/issues"
+  },
+  "homepage": "https://github.com/HazShk/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.112.2",
+    "webpack-cli": "^7.3.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.0"
+  }
+}
